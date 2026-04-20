@@ -1,0 +1,3 @@
+[submodule "external/StatMitransient"]
+	path = external/StatMitransient
+	url = https://github.com/alv02/StatMitransient

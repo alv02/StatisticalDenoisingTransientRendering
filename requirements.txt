@@ -1,0 +1,8 @@
+mitsuba
+numpy
+scipy
+torch
+torchvision
+matplotlib
+scikit-image
+ipykernel
